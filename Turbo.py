@@ -154,3 +154,4 @@ if __name__ == '__main__':
     text1.bind('<1>', lambda event: text1.focus_set())
 
     master.mainloop()
+
